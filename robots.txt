@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.0395hm.com/sitemap.xml
